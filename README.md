@@ -118,7 +118,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Thanks to the authors of the ImageNet dataset.
 - This project uses several pre-trained models available from public repositories.
 - Special thanks to the authors of the LPIPS metric for their work on perceptual similarity.
-```
+
 
 ### Explanation of the Sections:
 1. **Project Structure**: Clearly lists the files and directories involved in the project.
@@ -127,5 +127,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 4. **Running the Pipeline**: Instructions to run the full pipeline with the `main.py` script or individual components.
 5. **Results**: Where results will be saved and what they will include.
 6. **License & Acknowledgments**: Licensing information and acknowledgments.
-
-You can now copy and paste this directly into your `README.txt` file!
+'''
