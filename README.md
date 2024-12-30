@@ -8,10 +8,9 @@ This project aims to apply partial corruptions to the ImageNet dataset, perform 
 
 The directory structure for this project is as follows:
 
-'''
-your_project/
+
+ImageNet-PC/
 ├── data/
-│  
 │   ├── processed/             
 │   └── annotations/            
 ├── scripts/
@@ -23,7 +22,7 @@ your_project/
 ├── requirements.txt              
 ├── setup.py                      
 └── README.txt                  
-'''
+
 ## Prerequisites
 
 Before running the pipeline, make sure to have the following prerequisites:
