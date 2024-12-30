@@ -7,12 +7,12 @@ This project aims to apply partial corruptions to the ImageNet dataset, perform 
 ## Project Structure
 
 The directory structure for this project is as follows:
-
+'''
 your_project/
 ├── data/
-│   ├── raw/                # Original datasets (e.g., ImageNet images)
-│   ├── processed/          # Processed datasets (e.g., images with bounding boxes and corruptions)
-│   └── annotations/        # Annotations such as bounding boxes for images
+│   ├── raw/                   # Original datasets (e.g., ImageNet images)
+│   ├── processed/             # Processed datasets (e.g., images with bounding boxes and corruptions)
+│   └── annotations/           # Annotations such as bounding boxes for images
 ├── scripts/
 │   ├── apply_bounding_boxes.py  # Apply bounding boxes to the dataset
 │   ├── apply_corruptions.py     # Apply partial corruptions to images
@@ -22,7 +22,7 @@ your_project/
 ├── requirements.txt              # List of dependencies required for the project
 ├── setup.py                      # Setup script for the package
 └── README.txt                    # This file
-
+'''
 ## Prerequisites
 
 Before running the pipeline, make sure to have the following prerequisites:
