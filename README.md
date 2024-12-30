@@ -7,21 +7,22 @@ This project aims to apply partial corruptions to the ImageNet dataset, perform 
 ## Project Structure
 
 The directory structure for this project is as follows:
+
 '''
 your_project/
 ├── data/
-│   ├── raw/                   # Original datasets (e.g., ImageNet images)
-│   ├── processed/             # Processed datasets (e.g., images with bounding boxes and corruptions)
-│   └── annotations/           # Annotations such as bounding boxes for images
+│  
+│   ├── processed/             
+│   └── annotations/            
 ├── scripts/
-│   ├── apply_bounding_boxes.py  # Apply bounding boxes to the dataset
-│   ├── apply_corruptions.py     # Apply partial corruptions to images
-│   ├── inference.py             # Run inference using pre-trained models
-│   ├── lpips_evaluation.py      # Calculate LPIPS scores for image similarity
-│   └── clip_evaluate.py         # Optional: Evaluate with CLIP model
-├── requirements.txt              # List of dependencies required for the project
-├── setup.py                      # Setup script for the package
-└── README.txt                    # This file
+│   ├── apply_bounding_boxes.py  
+│   ├── apply_corruptions.py     
+│   ├── inference.py             
+│   ├── lpips_evaluation.py      
+│   └── clip_evaluate.py         
+├── requirements.txt              
+├── setup.py                      
+└── README.txt                  
 '''
 ## Prerequisites
 
