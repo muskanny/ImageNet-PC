@@ -1,6 +1,4 @@
-Certainly! Below is the full content for `README.txt`, formatted for you to directly copy and use:
 
-```
 ImageNet-PC - Project Overview
 ===============================
 
